@@ -1,11 +1,5 @@
    ## TEAM SOCET 
   
- CONTRIBUTERS OF THIS PROJECT 
-Satyaraj(https://github.com/Satyaraj291)
-MOKSHASHAH(https://github.com/Moksha6625)
-PREET(https://github.com/prit62)
-SAHIL(https://github.com/sahil-3748)
-ANKITTHAKOR(https://github.com/ANKITJITHAKOR)
                
   *****     ABOUT OUR PROJECT ****
                 

@@ -11,7 +11,7 @@
 
 <table>        
 <tr><td align="center"><a href="https://github.com/yashshah2002"><kbd><img src="https://avatars3.githubusercontent.com/yashshah2002?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Yashshah</b></sub></a><br /><a href="https://github.com/yashshah/TEAM-SOCET/commits?author=yashshah2002" title="Code">  </a> </td>
-<tr><td align="center"><a href="https://github.com/Satyaraj291"><kbd><img src="https://avatars3.githubusercontent.com/Satyaraj291?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Satyaraj Solanki </b></sub></a><br /><a href="https://github.com/yashshah/TEAM-SOCET/commits?author=Satyaraj291" title="Code">  </a> </td>
+<td align="center"><a href="https://github.com/Satyaraj291"><kbd><img src="https://avatars3.githubusercontent.com/Satyaraj291?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Satyaraj Solanki </b></sub></a><br /><a href="https://github.com/yashshah/TEAM-SOCET/commits?author=Satyaraj291" title="Code">  </a> </td>
 <td align="center"><a href="https://github.com/Moksha6625"><kbd><img src="https://avatars3.githubusercontent.com/Moksha6625?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Moksha shah</b></sub></a><br /><a href="https://github.com/yashshah/TEAM-SOCET/commits?author=yashshah2002" title="Code">  </a> </td>
 
 </table>
